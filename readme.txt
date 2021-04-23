@@ -1,6 +1,3 @@
-
-
-
 Here I explain how to get the module "requests".  Its extremely easy and the only thing that makes it hard is changing your enviroment variables. I'll explain below. If you have an other errors just GOOGLE IT!
 
 BEFORE YOU RUN THE PROGRAM
